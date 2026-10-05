@@ -1,0 +1,4 @@
+# take a number and determine its remainder when divided by 5
+num=int(input("enter the number:"))
+remainder = num % 5
+print("The remainder when", num, "is divided by 5 is:", remainder)
